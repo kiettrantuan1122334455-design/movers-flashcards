@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiettrantuan1122334455-design.github.io/movers-flashcards/sitemap.xml
